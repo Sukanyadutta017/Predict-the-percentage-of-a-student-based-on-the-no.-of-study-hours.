@@ -65,9 +65,9 @@ data.plot.bar(x='Hours',y='Scores')
 # In[8]:
 
 
-data.sort_values(["Hours"], axis=0, ascending=[True], inplace=True)
-data
-data.plot.bar(x='Hours',y='Scores')
+#data.sort_values(["Hours"], axis=0, ascending=[True], inplace=True)
+#data
+#data.plot.bar(x='Hours',y='Scores')
 
 
 # ### Above analysis decalers that scores increases with no. of study hours
